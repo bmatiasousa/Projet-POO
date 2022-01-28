@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1635408662 source:f:\be\finalproject\source.cpp
+	"source.h"
+
+1635408670 f:\be\finalproject\source.h
+	<iostream>
+	<math.h>
+	<fstream>
+
+1635410306 source:f:\be\finalproject\main.cpp
+	"circuit.h"
+	<cstring>
+	<stdio.h>
+	<math.h>
+
+1635408670 f:\be\finalproject\circuit.h
+	<iostream>
+	"source.h"
+
+1635408660 source:f:\be\finalproject\circuit.cpp
+	"circuit.h"
+
+1637326462 source:e:\be\finalproject\source.cpp
+	"source.h"
+
+1635408670 e:\be\finalproject\source.h
+	<iostream>
+	<math.h>
+	<fstream>
+
+1637329012 source:e:\be\finalproject\main.cpp
+	"circuit.h"
+	<cstring>
+	<stdio.h>
+	<math.h>
+
+1637335248 e:\be\finalproject\circuit.h
+	<iostream>
+	"source.h"
+
+1637336178 source:e:\be\finalproject\circuit.cpp
+	"circuit.h"
+
